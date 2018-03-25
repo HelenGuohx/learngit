@@ -2,4 +2,4 @@
 <p>Git is free software distributed under the GPL.</p>
 
 Creating a new branch is quick and simple.
-
+Github is good
